@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagen animada -->
-  <img src="https://cdn.discordapp.com/attachments/1279599167802708018/1280728644423122954/1725419901829-966.gif?ex=66d922ff&is=66d7d17f&hm=d3fbd037cbb79a6154089bc98520bf5f53f1a94deeadd01b29af35341eab757a&" alt="Luxy Animation" width="200"/>
+  <img src="https://cdn.discordapp.com/attachments/1279599167802708018/1280728644423122954/1725419901829-966.gif?ex=66d922ff&is=66d7d17f&hm=d3fbd037cbb79a6154089bc98520bf5f53f1a94deeadd01b29af35341eab757a&" alt="Luxy Animation" width="500"/>
 
   <!-- Saludo -->
   <h2>Hi there 👋</h2>
