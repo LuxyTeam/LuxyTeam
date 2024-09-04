@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagen animada -->
-  <img src="https://cdn.discordapp.com/attachments/1279599167802708018/1280730605272698973/STAR_WARS__THE_CLONE_WARS___Season_7_Episode_11__Shattered__1_4_Ahsoka_Tano.gif?ex=66d924d3&is=66d7d353&hm=5cc81fe8054054c4aa8a715d3e8edc55ad3a37d1ff59c4fbf58ec8d9efd31b41&" alt="Luxy Animation" width="200"/>
+  <img src="https://cdn.discordapp.com/attachments/1279599167802708018/1280728644423122954/1725419901829-966.gif?ex=66d922ff&is=66d7d17f&hm=d3fbd037cbb79a6154089bc98520bf5f53f1a94deeadd01b29af35341eab757a&" alt="Luxy Animation" width="200"/>
 
   <!-- Saludo -->
   <h2>Hi there 👋</h2>
