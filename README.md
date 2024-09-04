@@ -7,6 +7,11 @@
   
   <!-- Descripción o introducción (opcional) -->
   <p>Welcome to Luxy Team's GitHub profile!</p>
+  
+  <!-- Contador de visitas -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=LuxyTeam&style=flat-square" alt="Profile Views" />
+  </p>
 
   <!-- Estadísticas de GitHub -->
   <h3>GitHub Stats 🌟</h3>
@@ -18,8 +23,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxyTeam&theme=chartreuse-dark&layout=compact" alt="Top Langs" width="350"/>
   </a>
 
-  <!-- Contador de visitas -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=LuxyTeam&style=flat-square" alt="Profile Views" />
-  </p>
 </div>
