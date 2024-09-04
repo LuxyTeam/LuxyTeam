@@ -15,7 +15,7 @@
 
   <!-- Estadísticas de GitHub -->
   <h3>GitHub Stats 🌟</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuxyTeam&theme=shadow_red&count_private=true&show_icons=true&cache_seconds=1800" alt="Luxy Team GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuxyTeam&title_color=2f80ed&theme=shadow_red&count_private=true&show_icons=true&cache_seconds=1800" alt="Luxy Team GitHub Stats" width="450"/>
 
   <!-- Lenguajes más usados -->
   <h3>Top Languages</h3>
