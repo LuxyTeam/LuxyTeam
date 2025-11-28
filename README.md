@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. HERO ANIMATION -->
-  <img src="./1.gif" alt="Luxy Animation" width="300" />
+  <img src="https://cdn.discordapp.com/attachments/1279599167802708018/1280728644423122954/1725419901829-966.gif?ex=66d922ff&is=66d7d17f&hm=d3fbd037cbb79a6154089bc98520bf5f53f1a94deeadd01b29af35341eab757a&" alt="Luxy Animation" width="300" />
 
   <br/>
 
@@ -67,6 +67,5 @@
   <br/>
   
   <!-- 7. FOOTER ANIMATION -->
-  <img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/26d44fc9-6065-4257-a1f4-37df080d6ff8" width="100%" alt="snake" />
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
 </div>
