@@ -4,7 +4,7 @@
   <img src="./1.gif" alt="Luxy Animation" width="300" />
 
   <br/>
-
+sexo
   <!-- 2. DYNAMIC HEADER -->
   <a href="https://luxyteam.online">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+Luxy+Team;We+Build+The+Future;Innovation+&+Security" alt="Typing SVG" />
