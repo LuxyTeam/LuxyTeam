@@ -67,5 +67,6 @@
   <br/>
   
   <!-- 7. FOOTER ANIMATION -->
-  <img src="https://github-readme-contribution-snake.vercel.app/github-contribution-grid-snake.svg" width="100%" alt="snake" />
+  <img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/26d44fc9-6065-4257-a1f4-37df080d6ff8" width="100%" alt="snake" />
+
 </div>
