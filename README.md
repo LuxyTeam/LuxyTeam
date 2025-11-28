@@ -1,41 +1,38 @@
 <div align="center">
 
-  <!-- 1. ANIMATION -->
-  <img src="https://cdn.discordapp.com/attachments/1279599167802708018/1280728644423122954/1725419901829-966.gif?ex=66d922ff&is=66d7d17f&hm=d3fbd037cbb79a6154089bc98520bf5f53f1a94deeadd01b29af35341eab757a&" 
-       alt="Luxy Animation" 
-       width="100%" 
-       style="max-width: 500px; border-radius: 10px;" />
+  <!-- 1. HERO ANIMATION -->
+  <img src="https://cdn.discordapp.com/attachments/1279599167802708018/1280728644423122954/1725419901829-966.gif?ex=66d922ff&is=66d7d17f&hm=d3fbd037cbb79a6154089bc98520bf5f53f1a94deeadd01b29af35341eab757a&" alt="Luxy Animation" width="300" />
 
-  <br/><br/>
+  <br/>
 
-  <!-- 2. HEADLINE -->
-  <h1>Hi there 👋</h1>
-  <p>Welcome to <b>Luxy Team's</b> GitHub profile!</p>
+  <!-- 2. DYNAMIC HEADER -->
+  <a href="https://luxyteam.online">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+Luxy+Team;We+Build+The+Future;Innovation+&+Security" alt="Typing SVG" />
+  </a>
 
-  <!-- 3. VIEWS COUNTER -->
-  <img src="https://komarev.com/ghpvc/?username=LuxyTeam&style=flat-square&color=4ade80&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- 3. PROFILE VIEWS BADGE -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=LuxyTeam&style=flat-square&color=4ade80&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
-  <!-- 4. SYMMETRICAL SOCIALS (Using Table for Layout) -->
+  <!-- 4. SYMMETRICAL SOCIALS TABLE -->
   <table border="0" width="100%">
     <tr align="center">
-        <!-- Discord -->
         <td width="33%">
             <a href="https://discord.com/users/starsky409">
-                <img src="https://img.shields.io/badge/Discord-starsky409-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+                <img src="https://img.shields.io/badge/Discord-starsky409-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" height="40" />
             </a>
         </td>
-        <!-- Website (Center) -->
         <td width="33%">
             <a href="https://luxyteam.online">
-                <img src="https://img.shields.io/badge/Website-luxyteam.online-4ade80?style=for-the-badge&logo=google-chrome&logoColor=black" height="35" />
+                <img src="https://img.shields.io/badge/Website-LuxyTeam-4ade80?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=101010" height="40" />
             </a>
         </td>
-        <!-- Email -->
         <td width="33%">
             <a href="mailto:luxyteam404@gmail.com">
-                <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+                <img src="https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="40" />
             </a>
         </td>
     </tr>
@@ -43,19 +40,32 @@
 
   <br/>
 
-  <!-- 5. SYMMETRICAL STATS (Using Table for Layout) -->
-  <h3>GitHub Stats 🌟</h3>
+  <!-- 5. TECH STACK (CENTERED) -->
+  <h3>⚡ TECHNOLOGIES</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,html,css,tailwind,git,github,vscode&perline=15&theme=dark" />
+
+  <br/><br/>
+
+  <!-- 6. SYMMETRICAL STATS GRID -->
   <table border="0" width="100%">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LuxyTeam&theme=chartreuse-dark&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117" alt="Luxy Stats" width="100%" />
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=LuxyTeam&theme=chartreuse-dark&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117" width="100%" />
       </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/LoliKillers/LoliKillers">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxyTeam&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=0d1117" alt="Top Langs" width="100%" />
-        </a>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxyTeam&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=0d1117" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+         <br/>
+         <img src="https://github-profile-trophy.vercel.app/?username=LuxyTeam&theme=onestar&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
       </td>
     </tr>
   </table>
-
+  
+  <br/>
+  
+  <!-- 7. FOOTER ANIMATION -->
+  <img src="https://github-readme-contribution-snake.vercel.app/github-contribution-grid-snake.svg" width="100%" alt="snake" />
 </div>
