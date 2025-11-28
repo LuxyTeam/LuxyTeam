@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. HERO ANIMATION -->
-  <img src="./1.gif&" alt="Luxy Animation" width="300" />
+  <img src="./1.gif" alt="Luxy Animation" width="300" />
 
   <br/>
 
