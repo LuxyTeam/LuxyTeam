@@ -13,26 +13,17 @@
 
   <br/>
 
-    <table border="0" width="100%">
-    <tr align="center">
-        <td width="33%">
-            <a href="https://discord.com/users/starsky409">
-                <img src="https://img.shields.io/badge/Discord-starsky409-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" height="40" />
-            </a>
-        </td>
-        <td width="33%">
-            <a href="https://luxyteam.online">
-                <img src="https://img.shields.io/badge/Website-LuxyTeam-4ade80?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=101010" height="40" />
-            </a>
-        </td>
-        <td width="33%">
-            <a href="mailto:luxyteam404@gmail.com">
-                <img src="https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="40" />
-            </a>
-        </td>
-    </tr>
-  </table>
-
+    <p align="center">
+      <a href="https://discord.com/users/starsky409">
+          <img src="https://img.shields.io/badge/Discord-starsky409-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" height="40" />
+      </a>
+        <a href="https://luxyteam.online">
+            <img src="https://img.shields.io/badge/Website-LuxyTeam-4ade80?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=101010" height="40" />
+        </a>
+        <a href="mailto:luxyteam404@gmail.com">
+            <img src="https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="40" />
+        </a>
+  </p>
   <br/>
 
     <h3>⚡ TECHNOLOGIES</h3>
@@ -59,5 +50,9 @@
   
   <br/>
   
+    <hr>
+
     <img src="https://raw.githubusercontent.com/LuxyTeam/LuxyTeam/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
+  <br/>
+
 </div>
