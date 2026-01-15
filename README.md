@@ -1,58 +1,99 @@
 <div align="center">
+  <img src="https://via.placeholder.com/1000x300?text=Luxy+Team+Banner" alt="LuxyTeam Banner" width="100%" />
+  
+  <h1>✨ LuxyTeam ✨</h1>
+  <h3><i>"Innovación, Elegancia y Código Limpio"</i></h3>
 
-    <img src="./1.gif" alt="Luxy Animation" width="300" />
+  <p>
+    <a href="https://luxyteam.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://twitter.com/luxyteam" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:contact@luxyteam.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://discord.gg/tu-invitacion" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
+</div>
 
-  <br/>
-    <a href="https://luxyteam.online">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+Luxy+Team;We+Build+The+Future;Innovation+&+Security" alt="Typing SVG" />
-  </a>
+---
 
-    <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=LuxyTeam&style=flat-square&color=4ade80&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
+### 💎 Sobre Nosotros
 
-  <br/>
+¡Hola! Somos **LuxyTeam**. Un grupo de desarrolladores apasionados por crear soluciones digitales de alto impacto con un enfoque en la experiencia de usuario y la calidad del código.
 
-    <p align="center">
-      <a href="https://discord.com/users/starsky409">
-          <img src="https://img.shields.io/badge/Discord-starsky409-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" height="40" />
-      </a>
-        <a href="https://luxyteam.online">
-            <img src="https://img.shields.io/badge/Website-LuxyTeam-4ade80?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=101010" height="40" />
-        </a>
-        <a href="mailto:luxyteam404@gmail.com">
-            <img src="https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="40" />
-        </a>
-  </p>
-  <br/>
+* 🔭 **Actualmente trabajamos en:** Desarrollo de aplicaciones SaaS y Open Source.
+* 🌱 **Estamos aprendiendo:** Arquitectura de Microservicios e Inteligencia Artificial.
+* 🤝 **Buscamos colaborar en:** Proyectos innovadores que requieran diseño UI/UX premium.
+* 💬 **Pregúntanos sobre:** React, Node.js, y Diseño de Producto.
 
-    <h3>⚡ TECHNOLOGIES</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,html,css,tailwind,git,github,vscode&perline=15&theme=dark" />
+---
 
-  <br/><br/>
+### 🛠️ Stack Tecnológico
 
-    <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=LuxyTeam&theme=chartreuse-dark&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117" width="100%" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuxyTeam&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=0d1117" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-         <br/>
-         <img src="https://github-profile-trophy.vercel.app/?username=LuxyTeam&theme=onestar&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-    <hr>
+<div align="center">
 
-    <img src="https://raw.githubusercontent.com/LuxyTeam/LuxyTeam/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
-  <br/>
+| Frontend | Backend | Herramientas |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" /> | <img src="https://skillicons.dev/icons?i=nodejs,python,go,postgres" /> | <img src="https://skillicons.dev/icons?i=git,docker,figma,aws" /> |
 
+</div>
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tech Stack | Enlace |
+| :--- | :--- | :--- | :---: |
+| **LuxyApp** | Plataforma de gestión premium para freelancers. | `React` `Node` | [Ver Demo](#) |
+| **DiamondUI** | Librería de componentes UI minimalista. | `Vue` `Tailwind` | [Ver Repo](#) |
+| **GoldBot** | Bot de Discord para moderación automática. | `Python` `Discord.py` | [Invitar](#) |
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 👥 Nuestro Equipo
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/usuario1">
+        <img src="https://github.com/usuario1.png" width="100px;" alt=""/><br />
+        <sub><b>Nombre 1</b></sub>
+      </a><br />
+      💻 Lead Dev
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario2">
+        <img src="https://github.com/usuario2.png" width="100px;" alt=""/><br />
+        <sub><b>Nombre 2</b></sub>
+      </a><br />
+      🎨 UI/UX
+    </td>
+     <td align="center">
+      <a href="https://github.com/usuario3">
+        <img src="https://github.com/usuario3.png" width="100px;" alt=""/><br />
+        <sub><b>Nombre 3</b></sub>
+      </a><br />
+      🛡️ Backend
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <sub>Construido con 💖 por LuxyTeam. © 2024</sub>
 </div>
