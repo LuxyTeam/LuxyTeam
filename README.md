@@ -1,99 +1,94 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300?text=Luxy+Team+Banner" alt="LuxyTeam Banner" width="100%" />
+  <img src="https://via.placeholder.com/1000x300/0d1117/FFFFFF?text=LUXY+TEAM" alt="LuxyTeam Banner" width="100%" />
   
-  <h1>✨ LuxyTeam ✨</h1>
-  <h3><i>"Innovación, Elegancia y Código Limpio"</i></h3>
-
+  <br/>
+  <br/>
+  
   <p>
-    <a href="https://luxyteam.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://twitter.com/luxyteam" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="mailto:contact@luxyteam.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://discord.gg/tu-invitacion" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
+    <a href="https://luxyteam.com">WEBSITE</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+    <a href="https://twitter.com/luxyteam">TWITTER</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+    <a href="mailto:contact@luxyteam.com">CONTACT</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+    <a href="https://discord.gg/invitacion">DISCORD</a>
   </p>
 </div>
 
----
+<br/>
 
-### 💎 Sobre Nosotros
+## About LuxyTeam
 
-¡Hola! Somos **LuxyTeam**. Un grupo de desarrolladores apasionados por crear soluciones digitales de alto impacto con un enfoque en la experiencia de usuario y la calidad del código.
+Somos un colectivo de desarrollo enfocado en la arquitectura de software escalable y experiencias digitales de alto nivel. Priorizamos la limpieza del código, el rendimiento y el diseño de interfaz sobrio.
 
-* 🔭 **Actualmente trabajamos en:** Desarrollo de aplicaciones SaaS y Open Source.
-* 🌱 **Estamos aprendiendo:** Arquitectura de Microservicios e Inteligencia Artificial.
-* 🤝 **Buscamos colaborar en:** Proyectos innovadores que requieran diseño UI/UX premium.
-* 💬 **Pregúntanos sobre:** React, Node.js, y Diseño de Producto.
+* **Enfoque:** SaaS, Open Source y herramientas para desarrolladores.
+* **Filosofía:** Calidad sobre cantidad. Código mantenible y documentación clara.
 
 ---
 
-### 🛠️ Stack Tecnológico
+## Tech Stack
 
-<div align="center">
+Utilizamos tecnologías modernas y robustas para garantizar estabilidad y escalabilidad.
 
-| Frontend | Backend | Herramientas |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" /> | <img src="https://skillicons.dev/icons?i=nodejs,python,go,postgres" /> | <img src="https://skillicons.dev/icons?i=git,docker,figma,aws" /> |
-
-</div>
-
----
-
-### 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Tech Stack | Enlace |
-| :--- | :--- | :--- | :---: |
-| **LuxyApp** | Plataforma de gestión premium para freelancers. | `React` `Node` | [Ver Demo](#) |
-| **DiamondUI** | Librería de componentes UI minimalista. | `Vue` `Tailwind` | [Ver Repo](#) |
-| **GoldBot** | Bot de Discord para moderación automática. | `Python` `Discord.py` | [Invitar](#) |
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+  
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+  
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
 
 ---
 
-### 👥 Nuestro Equipo
+## Selected Projects
+
+| Repository | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **LuxyApp** | Plataforma de gestión para freelancers. | React, Node | Public |
+| **DiamondUI** | Librería de componentes UI. | Vue, Tailwind | Beta |
+| **GoldBot** | Automatización para comunidades. | Python | Active |
+
+---
+
+## The Team
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="130px">
       <a href="https://github.com/usuario1">
-        <img src="https://github.com/usuario1.png" width="100px;" alt=""/><br />
-        <sub><b>Nombre 1</b></sub>
-      </a><br />
-      💻 Lead Dev
+        <img src="https://github.com/usuario1.png" width="80px" style="border-radius: 50%" />
+      </a>
+      <br/>
+      <strong>Usuario 1</strong><br/>
+      <small>Lead Developer</small>
     </td>
-    <td align="center">
+    <td align="center" width="130px">
       <a href="https://github.com/usuario2">
-        <img src="https://github.com/usuario2.png" width="100px;" alt=""/><br />
-        <sub><b>Nombre 2</b></sub>
-      </a><br />
-      🎨 UI/UX
+        <img src="https://github.com/usuario2.png" width="80px" style="border-radius: 50%" />
+      </a>
+      <br/>
+      <strong>Usuario 2</strong><br/>
+      <small>Product Designer</small>
     </td>
-     <td align="center">
+    <td align="center" width="130px">
       <a href="https://github.com/usuario3">
-        <img src="https://github.com/usuario3.png" width="100px;" alt=""/><br />
-        <sub><b>Nombre 3</b></sub>
-      </a><br />
-      🛡️ Backend
+        <img src="https://github.com/usuario3.png" width="80px" style="border-radius: 50%" />
+      </a>
+      <br/>
+      <strong>Usuario 3</strong><br/>
+      <small>Backend Eng.</small>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-<div align="center">
-  <sub>Construido con 💖 por LuxyTeam. © 2024</sub>
+<div align="right">
+  <small>© 2024 LuxyTeam. All rights reserved.</small>
 </div>
